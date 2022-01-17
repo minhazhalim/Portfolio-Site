@@ -1,0 +1,21 @@
+{
+  "name": "learn-bootstrap-5-and-sass-by-building-a-portfolio-website---full-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compiling:sass": "sass --watch sass:compiled/CascadingStyleSheets"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.38.2"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "autoprefixer": "^10.3.3",
+    "bootstrap": "^5.1.0",
+    "postcss-cli": "^8.3.1"
+  }
+}
